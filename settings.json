@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GAAND_faad.aternos.me.me",
+    "ip": "GAAND_faad.aternos.me",
     "port": 36959,
     "version": "",
     "try-creative": false
